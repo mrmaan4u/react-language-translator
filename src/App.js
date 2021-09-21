@@ -3,9 +3,9 @@ import Translate from './components/Translate';
 
 function App() {
   return (
-    <div>
+    <>
       <Translate />
-    </div>
+    </>
   );
 }
 
